@@ -36,7 +36,7 @@
     "description": "The label of footer link with label=GitHub linking to https://github.com/flutter-webrtc"
   },
   "copyright": {
-    "message": "版权所有 © 2021 Flutter-WebRTC Project. 使用 Docusaurus 构建.",
+    "message": "版权所有 © 2021 Flutter-WebRTC Project.",
     "description": "The footer copyright"
   }
 }

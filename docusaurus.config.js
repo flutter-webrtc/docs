@@ -85,7 +85,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Flutter-WebRTC Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Flutter-WebRTC Project.`,
     },
     prism: {
       theme: lightCodeTheme,
