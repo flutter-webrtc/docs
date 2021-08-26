@@ -12,6 +12,10 @@ module.exports = {
   favicon: 'img/favicon.ico',
   organizationName: 'flutter-webrtc', // Usually your GitHub org/user name.
   projectName: 'flutter-webrtc', // Usually your repo name.
+  i18n: {
+    defaultLocale: 'en',
+    locales: ['en', 'zh-cn'],
+  },
   themeConfig: {
     navbar: {
       title: 'Flutter WebRTC Community',
@@ -21,16 +25,14 @@ module.exports = {
       },
       items: [
         {
+          type: 'localeDropdown',
+          position: 'right',
+        },
+        {
           type: 'doc',
           docId: 'docs',
           position: 'left',
           label: 'Docs',
-        },
-        {
-          type: 'doc',
-          docId: 'intro',
-          position: 'left',
-          label: 'Tutorial',
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {

@@ -1,0 +1,18 @@
+{
+  "version.label": {
+    "message": "下一个版本",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Flutter WebRTC - API": {
+    "message": "Flutter WebRTC - API",
+    "description": "The label for category Flutter WebRTC - API in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Dart SIP UA - API": {
+    "message": "Dart SIP UA - API",
+    "description": "The label for category Dart SIP UA - API in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Tutorial - Basics": {
+    "message": "教程 - 基础篇",
+    "description": "The label for category Tutorial - Basics in sidebar tutorialSidebar"
+  }
+}
