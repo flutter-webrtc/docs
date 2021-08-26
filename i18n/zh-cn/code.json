@@ -167,9 +167,5 @@
   },
   "Make WebRTC/VoIP development easier.": {
     "message": "让WebRTC/VoIP 应用开发更容易."
-  },
-  "Hello": {
-    "message": "Hello",
-    "description": "The homepage input placeholder"
   }
 }
