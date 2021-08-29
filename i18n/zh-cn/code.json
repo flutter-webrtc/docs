@@ -167,5 +167,32 @@
   },
   "Make WebRTC/VoIP development easier.": {
     "message": "让WebRTC/VoIP 应用开发更容易."
+  },
+  "homepage.features.modern-and-simple.title": {
+    "message": "现代 & 简单",
+    "description": "Title of features on the home page"
+  },
+  "Develop WebRTC/VoIP app for multi-platform the easy way.": {
+    "message": "用简单的方式开发WebRTC/VoIP应用"
+  },
+  "homepage.features.modern-and-simple.description": {
+    "message": "基于Flutter框架,使得开发跨平台WebRTC/VoIP应用变得容易, 用更少的代码开发更漂亮的应用.",
+    "description": "Description of features on the home page"
+  },
+  "homepage.features.one-codebase-simple.title": {
+    "message": "一套代码, 更多平台",
+    "description": "Title of features on the home page"
+  },
+  "homepage.features.one-codebase.description": {
+    "message": "支持移动端 (iOS, Android), 桌面(Windows, macOS, Linux) 和网页端, 甚至可以是嵌入式开发板.",
+    "description": "Description of features on the home page"
+  },
+  "homepage.features.standardized-integeratable-simple.title": {
+    "message": "标准化 和 互通性",
+    "description": "Title of features on the home page"
+  },
+  "homepage.features.standardized-integeratable.description": {
+    "message": "参考 W3C WebRTC API 封装以及互通性支持, 您只需参考文档便可与您的 WebRTC/SIP 服务进行互通.",
+    "description": "Description of features on the home page"
   }
 }

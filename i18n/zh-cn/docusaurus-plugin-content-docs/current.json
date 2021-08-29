@@ -4,11 +4,19 @@
     "description": "The label for version current"
   },
   "sidebar.tutorialSidebar.category.Flutter WebRTC - API": {
-    "message": "Flutter WebRTC - API",
+    "message": "Flutter WebRTC",
     "description": "The label for category Flutter WebRTC - API in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Dart SIP UA - API": {
-    "message": "Dart SIP UA - API",
+    "message": "Dart SIP UA",
     "description": "The label for category Dart SIP UA - API in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Flutter WebRTC": {
+    "message": "Flutter WebRTC",
+    "description": "The label for category Flutter WebRTC in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Dart SIP UA": {
+    "message": "Dart SIP UA",
+    "description": "The label for category Dart SIP UA in sidebar tutorialSidebar"
   }
 }

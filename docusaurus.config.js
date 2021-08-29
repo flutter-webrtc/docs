@@ -36,6 +36,11 @@ module.exports = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
+          href: 'https://opencollective.com/flutter-webrtc',
+          label: 'Sponsor',
+          position: 'left',
+        },
+        {
           href: 'https://github.com/flutter-webrtc',
           label: 'GitHub',
           position: 'right',

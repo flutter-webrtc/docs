@@ -13,7 +13,7 @@ function HomepageHeader() {
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         <h1 className="hero__title"><Translate>Flutter WebRTC Community</Translate></h1>
-        <p className="hero__subtitle"><Translate>Make WebRTC/VoIP development easier.</Translate></p>
+        <p className="hero__subtitle"><Translate>Develop WebRTC/VoIP app for multi-platform the easy way.</Translate></p>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
