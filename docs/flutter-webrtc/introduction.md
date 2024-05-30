@@ -8,7 +8,7 @@ We package this plug-in based on Google WebRTC, and you will have high-quality a
 
 Flutter-WebRTC is a cross-platform plugin, the platform support is as follows.
 
-## Functionality And Platform Support 
+## Functionality And Platform Support
 
 [![pub package](https://img.shields.io/pub/v/flutter_webrtc.svg)](https://pub.dartlang.org/packages/flutter_webrtc)
 
