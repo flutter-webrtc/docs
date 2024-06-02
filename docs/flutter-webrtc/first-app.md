@@ -79,4 +79,3 @@ render the video renderer in the widget tree
     );
   }
 ```
-
